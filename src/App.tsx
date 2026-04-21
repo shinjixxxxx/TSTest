@@ -3,7 +3,7 @@ import reactLogo from './assets/react.svg'
 import viteLogo from './assets/vite.svg'
 import heroImg from './assets/hero.png'
 import './App.css'
-import TSTest from './TSTest'
+import TSTest from './TSTest/TSTest'
 
 function App() {
   const [count, setCount] = useState<number>(2)
